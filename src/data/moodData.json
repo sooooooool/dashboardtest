@@ -1,0 +1,8 @@
+
+[
+  { "mood": "bg-success", "value": 8 },
+  { "mood": "bg-warning", "value": 5 },
+  { "mood": "bg-error", "value": 3 },
+  { "mood": "bg-primary", "value": 6 },
+  { "mood": "bg-secondary", "value": 4 }
+]

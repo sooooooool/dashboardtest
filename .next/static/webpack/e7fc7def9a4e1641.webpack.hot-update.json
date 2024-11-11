@@ -1,0 +1,1 @@
+{"c":["pages/index","webpack"],"r":[],"m":["./node_modules/date-fns/startOfMonth.js","./node_modules/date-fns/subDays.js","__barrel_optimize__?names=addDays,addWeeks,format,isToday,startOfMonth,startOfWeek,subDays,subWeeks!=!./node_modules/date-fns/index.js"]}
